@@ -16,4 +16,6 @@ En resumen, "Torvi - Metadata Analyzer" es una aplicación completa y versátil 
 
 Aquí en el repositorio, hay un pdf donde se explica todo lo que hace la aplicación, así como su funcionamiento o instalación, tanto para Linux como Windows.
 
+🏭 Web
 
+https://www.meunier.es/
