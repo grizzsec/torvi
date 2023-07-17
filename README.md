@@ -1,6 +1,6 @@
 # TORVI
 
-#Introducción a la Aplicación "Torvi - Metadata Analyzer"
+☕ Introducción a la Aplicación "Torvi - Metadata Analyzer"
 
 La aplicación "Torvi - Metadata Analyzer" es una herramienta avanzada y profesional diseñada para analizar y extraer metadatos de una amplia variedad de archivos, así como realizar un escaneo de virus para garantizar la seguridad de los documentos y archivos escaneados. Creada por Christian de López en el año 2023, esta aplicación proporciona a los usuarios una solución integral para examinar y entender la información oculta en diferentes tipos de archivos.
 
@@ -12,7 +12,7 @@ La interfaz gráfica intuitiva y amigable de "Torvi" facilita la navegación y e
 
 En resumen, "Torvi - Metadata Analyzer" es una aplicación completa y versátil que satisface las necesidades de aquellos que buscan una solución efectiva para el análisis de metadatos y la detección de posibles amenazas en sus archivos. Al proporcionar información valiosa y protección contra virus y malware, esta herramienta es una aliada fundamental en el mundo digital actual.
 
-#Guía e Informe
+🔊 Guía e Informe
 
 Aquí en el repositorio, hay un pdf donde se explica todo lo que hace la aplicación, así como su funcionamiento o instalación, tanto para Linux como Windows.
 
